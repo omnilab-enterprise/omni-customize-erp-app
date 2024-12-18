@@ -1,0 +1,82 @@
+<template>
+	<svg
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:cc="http://creativecommons.org/ns#"
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:svg="http://www.w3.org/2000/svg"
+		xmlns="http://www.w3.org/2000/svg"
+		viewBox="0 0 1440 1440"
+		height="1440"
+		width="1440"
+		xml:space="preserve"
+		id="svg2"
+		version="1.1"
+	>
+		<metadata id="metadata8">
+			<rdf:RDF
+				><cc:Work rdf:about=""
+					><dc:format>image/svg+xml</dc:format
+					><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work
+			></rdf:RDF>
+		</metadata>
+		<defs id="defs6">
+			<linearGradient
+				id="linearGradient32"
+				spreadMethod="pad"
+				gradientTransform="matrix(652.57471,720.33075,720.33075,-652.57471,204.62892,222.78937)"
+				gradientUnits="userSpaceOnUse"
+				y2="0"
+				x2="1"
+				y1="0"
+				x1="0"
+			>
+				<stop id="stop24" offset="0" style="stop-opacity: 1; stop-color: #4756a3" />
+				<stop id="stop26" offset="0.54446419" style="stop-opacity: 1; stop-color: #e64999" />
+				<stop id="stop28" offset="0.817856" style="stop-opacity: 1; stop-color: #e64999" />
+				<stop id="stop30" offset="1" style="stop-opacity: 1; stop-color: #e64999" />
+			</linearGradient>
+			<linearGradient
+				id="linearGradient54"
+				spreadMethod="pad"
+				gradientTransform="matrix(672.84241,742.70282,742.70282,-672.84241,219.86867,138.38463)"
+				gradientUnits="userSpaceOnUse"
+				y2="0"
+				x2="1"
+				y1="0"
+				x1="0"
+			>
+				<stop id="stop48" offset="0" style="stop-opacity: 1; stop-color: #4756a3" />
+				<stop id="stop50" offset="0.49329118" style="stop-opacity: 1; stop-color: #4756a3" />
+				<stop id="stop52" offset="1" style="stop-opacity: 1; stop-color: #e64999" />
+			</linearGradient>
+		</defs>
+		<g transform="matrix(1.3333333,0,0,-1.3333333,0,1440)" id="g10">
+			<g id="g12">
+				<g id="g14">
+					<g id="g20">
+						<g id="g22">
+							<path
+								id="path34"
+								style="fill: url(#linearGradient32); stroke: none"
+								d="m 27.601,539.653 c 0,-66.798 12.779,-130.644 36.047,-189.144 v 0 C 48.527,394.244 40.33,441.185 40.33,490.063 v 0 c 0,171.934 101.521,320.142 247.947,387.856 v 0 c 54.477,25.253 115.216,39.357 179.266,39.357 v 0 c 144.338,0 271.927,-71.585 349.264,-181.15 v 0 c 3.156,-4.43 6.262,-9.011 9.216,-13.645 v 0 c 34.06,-53.102 53.763,-116.235 53.763,-183.999 v 0 c 0,-188.533 -152.841,-341.425 -341.373,-341.425 v 0 c -79.22,0 -152.179,26.984 -210.118,72.245 v 0 C 403.035,204.949 500.381,166.051 606.79,166.051 v 0 c 63.998,0 124.737,14.053 179.214,39.305 v 0 c 146.427,67.765 247.999,215.975 247.999,387.908 v 0 c 0,76.064 -19.907,147.546 -54.733,209.405 v 0 c -23.776,39.662 -52.796,75.81 -86.043,107.58 v 0 c -0.05,0.051 -0.101,0.102 -0.152,0.153 v 0 c -91.899,87.571 -216.382,141.386 -353.338,141.386 v 0 c -282.822,0 -512.136,-229.313 -512.136,-512.135"
+							/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="g36">
+				<g id="g38">
+					<g id="g44">
+						<g id="g46">
+							<path
+								id="path56"
+								style="fill: url(#linearGradient54); stroke: none"
+								d="M 288.277,877.919 C 141.851,810.205 40.33,661.997 40.33,490.063 v 0 c 0,-48.878 8.197,-95.819 23.318,-139.554 v 0 c 28.715,-72.144 73.315,-136.243 129.523,-187.92 v 0 C 284.408,78.735 406.09,27.517 539.737,27.517 v 0 c 282.823,0 512.136,229.261 512.136,512.136 v 0 c 0,96.123 -26.526,186.138 -72.603,263.016 v 0 c 34.826,-61.859 54.733,-133.341 54.733,-209.405 v 0 c 0,-171.933 -101.572,-320.143 -247.999,-387.908 v 0 C 731.527,180.104 670.788,166.051 606.79,166.051 v 0 c -106.409,0 -203.755,38.898 -278.495,103.251 v 0 c -41.393,32.382 -75.097,74.131 -98.008,121.989 v 0 c -21.333,44.548 -33.298,94.495 -33.298,147.191 v 0 c 0,188.581 152.842,341.424 341.424,341.424 v 0 c 114.911,0 216.534,-56.77 278.394,-143.78 v 0 C 739.47,845.691 611.881,917.276 467.543,917.276 v 0 c -64.05,0 -124.789,-14.104 -179.266,-39.357"
+							/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</svg>
+</template>
